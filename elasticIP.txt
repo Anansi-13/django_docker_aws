@@ -1,0 +1,5 @@
+3.131.189.80
+
+911308418214.dkr.ecr.us-east-2.amazonaws.com/django_docker_aws   (URI)
+
+https://github.com/Anansi-13/django_docker_aws.git
